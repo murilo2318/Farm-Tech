@@ -57,11 +57,8 @@ O modelo de banco de dados foi testado em diversas etapas para garantir que ele 
 	3.	Consultas de Teste: Diversas consultas SQL foram realizadas para garantir que os dados pudessem ser recuperados corretamente. Exemplos de consultas incluíram: a busca por leituras de sensores em uma plantação específica, o cálculo da quantidade de produtos aplicados em determinada cultura, e a análise das condições ambientais em um intervalo de tempo.
 	4.	Testes de Integridade e Performance: A integridade referencial foi constantemente validada durante a inserção de dados. Também foi testada a performance de consultas com grandes volumes de dados, assegurando que o modelo fosse escalável e eficiente.
 
-Considerações Finais
-
-Este modelo serve como uma base para sistemas de monitoramento agrícola que exigem controle sobre diversas variáveis ambientais e de manejo de insumos. A integração de sensores e o monitoramento em tempo real proporcionam um melhor entendimento das condições das plantações, permitindo decisões mais informadas e eficazes no manejo agrícola. A FarmTech Solutions espera que, com esse sistema, seja possível melhorar a produtividade agrícola e reduzir os impactos ambientais, promovendo práticas mais sustentáveis e eficientes.
-
 Desenvolvedor
 
 Murilo de Faria Benhossi
+
 Curso de Inteligência Artificial – FIAP
